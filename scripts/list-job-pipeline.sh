@@ -15,16 +15,41 @@ NC='\033[0m'
 echo -e "${BLUE}=== Job Application Pipeline ===${NC}"
 echo ""
 
-# Get all JB issues
+# Get all JB issues - save to temp file to avoid shell variable issues
+TEMP_FILE="/tmp/jira-pipeline-$$.json"
 curl -s \
+  -X POST \
   -H "Authorization: Basic $AUTH_HEADER" \
   -H "Accept: application/json" \
-  "https://tim52.atlassian.net/rest/api/3/search?jql=project=JB+ORDER+BY+status+ASC,created+DESC&fields=key,summary,status,labels,created&maxResults=100" | \
-  python3 << 'PYEOF'
+  -H "Content-Type: application/json" \
+  "https://tim52.atlassian.net/rest/api/3/search/jql" \
+  -d '{"jql": "project=JB ORDER BY status ASC, created DESC", "fields": ["key", "summary", "status", "labels", "created"], "maxResults": 100}' \
+  > "$TEMP_FILE"
+
+if [ ! -s "$TEMP_FILE" ]; then
+  echo "Error: No response from Jira API"
+  rm -f "$TEMP_FILE"
+  exit 1
+fi
+
+# Check for error in response
+if grep -q "errorMessages" "$TEMP_FILE"; then
+  echo "Error from Jira API:"
+  cat "$TEMP_FILE"
+  rm -f "$TEMP_FILE"
+  exit 1
+fi
+
+python3 - "$TEMP_FILE" << 'PYEOF'
 import sys, json
 from datetime import datetime
 
-data = json.load(sys.stdin)
+try:
+    with open(sys.argv[1], 'r') as f:
+        data = json.load(f)
+except (json.JSONDecodeError, FileNotFoundError, IndexError) as e:
+    print(f"Failed to read JSON response: {e}")
+    sys.exit(1)
 issues = data.get('issues', [])
 
 if not issues:
@@ -102,3 +127,6 @@ if 'Interviewing' in by_status or 'Offer' in by_status or 'Offer Received' in by
     print(f"🔥 Hot opportunities: {hot}")
 
 PYEOF
+
+# Clean up temp file
+rm -f "$TEMP_FILE"
