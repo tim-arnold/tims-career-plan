@@ -16,16 +16,41 @@ echo ""
 echo "Week of: $(date +%Y-%m-%d)"
 echo ""
 
-# Get all JB issues
+# Get all JB issues - save to temp file to avoid shell variable issues
+TEMP_FILE="/tmp/jira-response-$$.json"
 curl -s \
+  -X POST \
   -H "Authorization: Basic $AUTH_HEADER" \
   -H "Accept: application/json" \
-  "https://tim52.atlassian.net/rest/api/3/search?jql=project=JB+ORDER+BY+created+DESC&fields=key,summary,status,labels,created,updated&maxResults=200" | \
-  python3 << 'PYEOF'
-import sys, json
+  -H "Content-Type: application/json" \
+  "https://tim52.atlassian.net/rest/api/3/search/jql" \
+  -d '{"jql": "project=JB ORDER BY created DESC", "fields": ["key", "summary", "status", "labels", "created", "updated"], "maxResults": 200}' \
+  > "$TEMP_FILE"
+
+if [ ! -s "$TEMP_FILE" ]; then
+  echo "Error: No response from Jira API"
+  rm -f "$TEMP_FILE"
+  exit 1
+fi
+
+# Check for error in response
+if grep -q "errorMessages" "$TEMP_FILE"; then
+  echo "Error from Jira API:"
+  cat "$TEMP_FILE"
+  rm -f "$TEMP_FILE"
+  exit 1
+fi
+
+python3 - "$TEMP_FILE" << 'PYEOF'
+import sys, json, re
 from datetime import datetime, timedelta
 
-data = json.load(sys.stdin)
+try:
+    with open(sys.argv[1], 'r') as f:
+        data = json.load(f)
+except (json.JSONDecodeError, FileNotFoundError, IndexError) as e:
+    print(f"Failed to read JSON response: {e}")
+    sys.exit(1)
 issues = data.get('issues', [])
 
 if not issues:
@@ -51,8 +76,15 @@ for issue in issues:
     status = issue['fields']['status']['name']
     by_status[status] = by_status.get(status, 0) + 1
 
-    created = datetime.fromisoformat(issue['fields']['created'].replace('Z', '+00:00'))
-    updated = datetime.fromisoformat(issue['fields']['updated'].replace('Z', '+00:00'))
+    # Parse datetime - handle both 'Z' and timezone offsets like '-0500'
+    created_str = issue['fields']['created'].replace('Z', '+00:00')
+    # Convert -0500 format to -05:00 format for Python 3.9
+    created_str = re.sub(r'([+-]\d{2})(\d{2})$', r'\1:\2', created_str)
+    created = datetime.fromisoformat(created_str)
+
+    updated_str = issue['fields']['updated'].replace('Z', '+00:00')
+    updated_str = re.sub(r'([+-]\d{2})(\d{2})$', r'\1:\2', updated_str)
+    updated = datetime.fromisoformat(updated_str)
 
     if created.replace(tzinfo=None) > week_ago:
         created_this_week.append(issue)
@@ -165,3 +197,6 @@ print("---")
 print("Keep pushing forward! 💪")
 
 PYEOF
+
+# Clean up temp file
+rm -f "$TEMP_FILE"
