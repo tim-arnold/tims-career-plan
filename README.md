@@ -8,7 +8,7 @@ Automated scripts for managing your Job Board (JB) Jira project.
 
 1. **Add columns to your board** (2-3 minutes):
    ```bash
-   cat SETUP-GUIDE.md
+   cat setup/SETUP-GUIDE.md
    ```
    Follow the guide to add the 7 columns via Jira UI.
 
