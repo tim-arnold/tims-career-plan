@@ -1,7 +1,7 @@
 # Personal Career Plan - Q4 2025 to Q4 2026
 
 **Created:** October 25, 2025
-**Last Updated:** October 25, 2025
+**Last Updated:** November 18, 2025
 
 ---
 
@@ -88,7 +88,9 @@
 
 ---
 
-## Two-Track Strategy: November 2025 - December 2025
+## Three-Track Strategy: November 2025 - December 2025
+
+**UPDATE (November 18, 2025):** Added Track 3 - Worker Cooperative exploration as long-term option. See `Track_3_Worker_Cooperative_Framework.md` for full details.
 
 ### Track 1: Active Job Search (Primary Focus)
 
@@ -139,9 +141,52 @@
 - Nonprofits found through NTEN network
 - Small agencies in DC/Baltimore area needing overflow support
 
+### Track 3: Worker Cooperative Exploration (Long-Term Play)
+
+**NEW TRACK (November 18, 2025)** - See `Track_3_Worker_Cooperative_Framework.md` for comprehensive framework.
+
+**Vision:** Build democratic, worker-owned cooperative providing web development services to nonprofits.
+
+**Timeline:** 12-36 months to viability (NOT a solution for December 2025 deadline)
+
+**Why explore this:**
+- Democratic ownership ("no more don't trust them to do right by me")
+- Leverages 20 years nonprofit network
+- Values alignment with mission-driven clients
+- Specific people identified (PM, dev, designers)
+- Part-time compatible while doing Tracks 1-2
+- Proven model (Palante, CoLab, Agaric all succeed)
+
+#### Immediate Actions (November-December 2025)
+**Commitment: 8-12 hours/month (minimal time while focusing on Tracks 1-2)**
+
+- [ ] Reach out to PM contact: Gauge interest in worker co-op conversation
+- [ ] Reach out to Drupal/WordPress developer: Same
+- [ ] Reach out to 1-2 designers: Same
+- [ ] Schedule first exploratory meeting (2 hours)
+- [ ] If interest exists: Register for USFWC free startup webinar
+- [ ] Download "Think Outside the Boss" from SELC (free manual)
+- [ ] First 3 meetings: Study co-op model together, assess commitment
+
+#### Next 3-6 Months (January-June 2026)
+**Only if core group remains engaged**
+
+- [ ] Weekly 2-hour meetings (study co-op model, market research)
+- [ ] Interview 15-20 potential nonprofit clients (market validation)
+- [ ] Decide: Proceed to incorporation or not?
+- [ ] If yes: Engage cooperative-friendly lawyer (Virginia co-op corp recommended)
+- [ ] Each member contributes $500-$1,000 initial buy-in
+
+**Integration with other tracks:**
+- **If Track 1 succeeds (got job):** Co-op becomes part-time passion project
+- **If Track 2 succeeds (freelancing):** Co-op formalizes that structure
+- **If both stall:** Co-op accelerates as primary path forward
+
+**Key point:** Track 3 is parallel exploration, compatible with Tracks 1-2, provides long-term option regardless of short-term outcome.
+
 ---
 
-## Track 3: Outright Management Strategy (Minimal Effort, Maximum Optics)
+## Track 4: Outright Management Strategy (Minimal Effort, Maximum Optics)
 
 **Purpose:** Stay employed and valued through early 2026 evaluation while executing Tracks 1-2
 
