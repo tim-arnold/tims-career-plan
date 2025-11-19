@@ -143,7 +143,7 @@
 
 ### Track 3: Worker Cooperative Exploration (Long-Term Play)
 
-**NEW TRACK (November 18, 2025)** - See `Track_3_Worker_Cooperative_Framework.md` for comprehensive framework.
+**NEW TRACK (November 18, 2025)** - See separate repository: [WebCollective](https://github.com/tim-arnold/WebCollective) for comprehensive framework and research.
 
 **Vision:** Build democratic, worker-owned cooperative providing web development services to nonprofits.
 
