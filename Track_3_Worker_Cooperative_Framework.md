@@ -570,30 +570,25 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 - Collaborate with other co-ops for larger projects
 - Focus on retainer/ongoing relationships vs. one-off projects
 
-### Risk 6: Timeline conflicts with December 2025 income need
-
-**THIS IS THE BIG ONE**
+### Risk 6: Long timeline to sustainable income
 
 **Reality:**
-- Track 3 will NOT solve December 2025 income crisis
 - 6-12 months minimum to first paid project
 - 24-36 months to full-time sustainable income
-- Cannot replace Track 1 (job search) or Track 2 (side contracting)
+- Requires patience and financial runway
 
-**Therefore:**
-- **Track 3 is parallel long-term play**
-- Continue Track 1 (Maryland, Teal Media applications)
-- Continue Track 2 (side contracting for immediate income)
-- Start Track 3 co-op exploration WHILE doing Tracks 1-2
-- If Track 1 or 2 succeeds, Track 3 becomes part-time passion project
-- If Track 1 and 2 both fail, Track 3 provides path forward (just slower)
+**Mitigation:**
+- **Part-time startup approach**
+- Members maintain other employment during startup
+- Minimal time commitment initially (8-12 hours/month)
+- Can explore while maintaining other income sources
+- Low financial investment in early phases
 
 **Strategic approach:**
-- Months 1-3 of Track 3: Minimal time commitment (8-12 hours/month)
-- Can do this while job searching and side contracting
-- If new job materializes, can continue co-op part-time
-- If freelancing grows, co-op formalizes that work structure
-- No need to choose - all three tracks compatible
+- Start with minimal commitment to test viability
+- Scale up involvement as revenue grows
+- Some members may transition to full-time before others
+- Flexible timeline based on actual revenue growth
 
 ---
 
@@ -648,66 +643,7 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 
 ---
 
-## Integration with Overall Career Plan
-
-### How Track 3 Relates to Tracks 1 & 2
-
-**Track 1: Job Search** (Maryland, Teal Media, etc.)
-- **Timeline:** Immediate need (by December 2025)
-- **If succeeds:** Take job, continue co-op exploration part-time evenings/weekends
-- **Co-op benefit:** If job doesn't work out, co-op provides next option
-- **Compatible:** Can do both simultaneously
-
-**Track 2: Side Contracting** (Grow to full-time equivalent)
-- **Timeline:** Immediate income (next 2-6 months)
-- **If succeeds:** Co-op formalizes this work structure
-- **Co-op benefit:** PM and dev you know might BE your contractors - make it official
-- **Compatible:** Co-op could START as formalizing existing side work
-
-**Track 3: Worker Cooperative** (This framework)
-- **Timeline:** Long-term (12-36 months)
-- **If succeeds:** Democratic ownership, sustainable model, values alignment
-- **Benefit to Tracks 1 & 2:** Provides purpose and direction while pursuing income
-- **Compatible:** Can explore in parallel with minimal time commitment initially
-
-### Recommended Approach: Parallel Tracks
-
-**November-December 2025:**
-- **Track 1:** Active job applications, interviews (primary focus)
-- **Track 2:** Side contracting outreach (backup income)
-- **Track 3:** Convene core group, first meetings (8-12 hours/month)
-
-**January-March 2026:**
-- **Track 1:** Either landed job OR continuing search
-- **Track 2:** Either building contracting OR stopped if got job
-- **Track 3:** Continue exploration, market research (12-16 hours/month)
-
-**April-June 2026:**
-- **Scenario A:** Got full-time job → Co-op becomes part-time passion project
-- **Scenario B:** Freelancing full-time → Co-op formalizes that structure
-- **Scenario C:** Still searching → Co-op becomes primary focus, accelerate timeline
-
-### Decision Points
-
-**March 2026: First Major Checkpoint**
-- How's job search going?
-- Is side contracting generating enough income?
-- Is co-op core group still engaged and excited?
-- Decide: Which track(s) to continue or accelerate?
-
-**June 2026: Second Checkpoint**
-- Is employment stable (job or contracting)?
-- Is co-op progressing or stalled?
-- Decide: Incorporate co-op or let it fade?
-
-**December 2026: One Year Review**
-- Where did you land? (Job, freelance, co-op, or combination?)
-- Is it sustainable and satisfying?
-- What's the plan for 2027?
-
----
-
-## Next Actions for Track 3
+## Next Actions
 
 ### This Month (November 2025)
 
@@ -734,7 +670,7 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 
 **If NOT enough interest:**
 - [ ] That's OK - learned quickly with minimal investment
-- [ ] Focus energy on Tracks 1 & 2
+- [ ] Focus energy elsewhere
 - [ ] Revisit co-op idea in future if circumstances change
 
 ### Quarter 1 2026 (January-March)
@@ -868,7 +804,7 @@ But it's **absolutely viable**:
 - Phase 1 costs only time + maybe $500
 - Can decide not to proceed after 3 months
 - Even if it fails, you'll have learned a lot and built relationships
-- Compatible with job search and side contracting
+- Compatible with maintaining other income sources
 
 **The potential upside is HIGH**:
 - Democratic ownership and control
@@ -877,7 +813,7 @@ But it's **absolutely viable**:
 - Building something lasting and potentially multi-generational
 - No more "I don't trust them to do right by me"
 
-**Recommended: Start Phase 1 this month** while continuing job search and side contracting. See where it goes. Worst case, you learn it's not right. Best case, you build the workplace you've always wanted.
+**Recommended: Start Phase 1** to explore this opportunity. Worst case, you learn it's not right. Best case, you build the workplace you've always wanted.
 
 ---
 
