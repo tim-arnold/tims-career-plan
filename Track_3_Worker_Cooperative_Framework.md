@@ -354,6 +354,11 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 
 **Investment:** Time only, maybe $500 for materials
 
+**Member compensation (assuming 4-5 members):**
+- **Income per member:** $0/month (all sweat equity)
+- **Total co-op revenue:** $0/month
+- Members maintain other employment during this phase
+
 **Success criteria:**
 - All members still engaged after 3 months
 - Market validation shows demand
@@ -374,6 +379,11 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 
 **Investment:** $2,500-$5,000 total ($500-$1,000 per member)
 
+**Member compensation (assuming 4-5 members):**
+- **Income per member:** $0/month (all sweat equity)
+- **Total co-op revenue:** $0/month
+- Members maintain other employment during this phase
+
 **Success criteria:**
 - Legally incorporated
 - Basic governance documents signed
@@ -392,6 +402,12 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 - [ ] Generate first testimonials
 
 **Investment:** Minimal cash (mostly sweat equity), 12-16 hours/month per person
+
+**Member compensation (assuming 4 members working equal hours):**
+- **Income per member:** $500-$1,500/month (from 1-2 small pilot projects)
+- **Total co-op revenue:** $2k-$6k/month
+- **Hourly equivalent:** ~$15-$25/hour (below market, friends/family rates)
+- Members still maintain primary employment
 
 **Success criteria:**
 - Professional brand presence
@@ -413,6 +429,13 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 
 **Investment:** Ongoing time, 15-20 hours/week per person as projects allow
 
+**Member compensation (assuming 4 members working equal hours):**
+- **Income per member:** $1,500-$3,000/month ($18k-$36k annually)
+- **Total co-op revenue:** $8k-$15k/month
+- **Hourly equivalent:** $30-$50/hour (approaching market rates)
+- **Annual salary equivalent:** $18k-$36k from co-op
+- Members likely still need supplemental income (other clients or part-time job)
+
 **Success criteria:**
 - Monthly revenue covering basic costs
 - Pipeline of 3+ months of work visible
@@ -431,6 +454,13 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 - [ ] Strong portfolio and reputation
 - [ ] Consider hiring first provisional member
 
+**Member compensation (assuming 4 members working equal hours):**
+- **Income per member:** $5,000-$7,500/month ($60k-$90k annually)
+- **Total co-op revenue:** $20k-$30k/month
+- **Hourly equivalent:** $50-$75/hour (market rates, equal pay model)
+- **Annual salary equivalent:** $60k-$90k from co-op
+- **Status:** 1-2 members can work full-time from co-op, others part-time or maintain supplemental work
+
 **Success criteria:**
 - At least 1 member earning full-time income from co-op
 - Sustainable revenue pipeline
@@ -447,6 +477,14 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 - [ ] First provisional member brought on
 - [ ] Considered for membership after 9-12 months
 - [ ] Established as viable alternative to traditional employment
+
+**Member compensation (assuming 4 members working equal hours):**
+- **Income per member:** $10,000-$15,000/month ($120k-$180k annually)
+- **Total co-op revenue:** $40k-$60k/month
+- **Hourly equivalent:** $75-$115/hour (competitive market rates)
+- **Annual salary equivalent:** $120k-$180k from co-op
+- **Status:** All 4 founding members working full-time, earning competitive salaries
+- **Benefits:** Health insurance, PTO, professional development budget
 
 **Success criteria:**
 - All members earning competitive salaries
