@@ -13,11 +13,11 @@ Build a democratic, worker-owned cooperative providing web development services 
 
 ---
 
-## Why This Makes Sense for You
+## Why This Makes Sense
 
 ### Strategic Advantages
 
-1. **Leverages 20 years nonprofit network** - Built-in client relationships
+1. **Leverages collective nonprofit network** - Built-in client relationships from 20+ years combined experience
 2. **Values alignment** - Nonprofits appreciate cooperative structure
 3. **Specific people identified** - PM, Drupal/WordPress dev, designers ready
 4. **Proven market** - Multiple successful tech co-ops exist (Palante, CoLab, Agaric)
@@ -46,9 +46,9 @@ Build a democratic, worker-owned cooperative providing web development services 
 
 ### Identified People
 
-1. **You (Tim)** - Frontend dev, WordPress, client relations, sales/scoping, 20yr nonprofit network
-2. **Project Manager** - (Name TBD) - Manages projects, client communication, timelines
-3. **Drupal/WordPress Developer** - (Name TBD) - Backend development, complements your frontend strength
+1. **Tim Arnold** - Frontend dev, WordPress, client relations, sales/scoping, 20yr nonprofit network
+2. **JoMarie Hoholik** - Project Manager, 17+ years experience (since 2008), manages projects, client communication, timelines
+3. **Krystee Dryer** - Drupal/WordPress Developer, 8+ years web development for nonprofits (since 2017), backend development, complements Tim's frontend strength
 4. **Designer(s)** - (Names TBD) - Visual design, UX, brand work
 
 ### Required Commitment
@@ -278,11 +278,11 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 - **Quarterly rotating BD lead:** Proposal writing, follow-up, pipeline management
 - **Collective decision:** Which opportunities to pursue
 
-**Your advantage:**
-- 20 years nonprofit network (immediate warm leads)
-- Former client relationships
+**Collective advantages:**
+- Combined 45+ years nonprofit experience (immediate warm leads)
+- Existing client relationships across the team
 - NTEN membership/conferences
-- Nonprofit sector credibility
+- Deep nonprofit sector credibility
 
 ### Capacity Planning
 
@@ -394,10 +394,10 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 
 **Milestones:**
 - [ ] Develop brand identity (collective process!)
-- [ ] Build website (use your own skills - great portfolio piece)
+- [ ] Build website (showcase collective skills - great portfolio piece)
 - [ ] Create case studies from individual past work
 - [ ] Join NTEN and other nonprofit associations
-- [ ] Outreach to warm leads in Tim's network
+- [ ] Outreach to warm leads in collective network
 - [ ] Take 1-2 small pilot projects (friends/family rates)
 - [ ] Generate first testimonials
 
@@ -515,7 +515,7 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 **Mitigation:**
 - **Interview 15-20 nonprofits in Phase 1** before incorporating
 - Test pricing and service concepts
-- Leverage Tim's existing network for honest feedback
+- Leverage collective network for honest feedback
 - Research competitors to understand market
 
 **Contingency:**
@@ -530,7 +530,7 @@ Your dividend = (Your hours / Total member hours) × 80% of surplus
 - **Part-time approach reduces pressure**
 - Members maintain other income sources during startup
 - Conservative financial planning (don't quit jobs prematurely)
-- Start with warm leads from Tim's network (faster sales)
+- Start with warm leads from collective network (faster sales)
 - Retainer model provides predictable income
 
 **Contingency:**
