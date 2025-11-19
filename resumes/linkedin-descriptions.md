@@ -1,4 +1,16 @@
-# LinkedIn Position Descriptions
+# LinkedIn Profile Content
+
+## **About Section**
+
+I've spent over 20 years building accessible, scalable web platforms for organizations fighting for social justice, democracy, and environmental protection. As Director of Technology at Outright, I lead technical strategy while maintaining hands-on development—building custom WordPress solutions, establishing accessibility standards, and translating complex missions into functional digital experiences.
+
+My expertise spans full-stack development with deep focus on accessible front-end code (WCAG 2.1 AA/AAA), custom WordPress and Drupal development, and complex CRM integrations. I've led engineering teams while staying actively involved in coding, architecture decisions, and technical implementation because I believe the best technical leaders remain close to the code.
+
+I'm particularly passionate about accessibility as a practice, not just compliance—ensuring digital platforms genuinely serve diverse audiences including people with disabilities. Throughout my career with organizations like Truth Initiative, League of Women Voters, Everytown for Gun Safety, and Ocean Conservancy, I've focused on building reliable, inclusive platforms that help movements grow and communities organize.
+
+---
+
+# Position Descriptions
 
 ## **Outright - Director of Technology** (May 2024 - Present)
 
